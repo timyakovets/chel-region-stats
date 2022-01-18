@@ -8,9 +8,11 @@ h2 {
     text-align: center;
 }
 
-h3 {
+#repo {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    display: block;
+    margin: auto;
 }
 
 a {
